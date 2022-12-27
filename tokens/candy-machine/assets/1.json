@@ -1,0 +1,20 @@
+{
+  "name": "The Green Knight #1",
+  "symbol": "TGK",
+  "description": "A Green Knight's Journey",
+  "image": "1.png",
+  "attributes": [
+    {
+      "trait_type": "man",
+      "value": "cartoon green"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

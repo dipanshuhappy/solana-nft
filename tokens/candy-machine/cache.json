@@ -1,0 +1,49 @@
+{
+  "program": {
+    "candyMachine": "BLWtbPZ1KqKCpZgLsoF5Fz5mZoXju99yT3HhVh11TYjr",
+    "candyMachineCreator": "5hHwaQ4pB2DASKdw7UZfn62gc2ziM5b1Z8jN8WdBhFVP",
+    "collectionMint": ""
+  },
+  "items": {
+    "0": {
+      "name": "The Green Knight #0",
+      "image_hash": "78b71176a610a047e5fda8ad1f1d28e569b8779c1fcde2615c8d9c189d58067d",
+      "image_link": "https://arweave.net/CwIeV2-uwSDFyEMRHgb3_WVNqhTmS4SSaGt0rQH5YQY?ext=png",
+      "metadata_hash": "ed878b8dfae0341280cd8457d1bdf2c661db6fc0fb7f139d68c17f94cf503ba5",
+      "metadata_link": "https://arweave.net/zIcmrUVwQofEOcF46dhALgN__BPUAIwU5U3P-ds3gRU",
+      "onChain": true
+    },
+    "1": {
+      "name": "The Green Knight #1",
+      "image_hash": "415afcf4fe2534561893508772f2dcdb172220d9edffb943a38bd2db3bc0cbc9",
+      "image_link": "https://arweave.net/fDw5CKVtX4eAkHbPz4SkTsJijoIlVAAvitrScLyvIbU?ext=png",
+      "metadata_hash": "01adda060657bab72139af54b74b2237e356c3cf57b34ca68f7af4fd7dfd7dad",
+      "metadata_link": "https://arweave.net/0hfesxurLl4Ftl5K_Xx5OyTn_bnDJgbMduDpZNQmS_k",
+      "onChain": true
+    },
+    "2": {
+      "name": "The Green Knight #2",
+      "image_hash": "58bc61d9f8f5a83cddbb5af55a9640997a86fd5ccf9dac146d7fbcb31bf5818c",
+      "image_link": "https://arweave.net/BZG9_YYHihxRi7xWdhVhi8_jCN04Y1U-rJ44FCHDSaQ?ext=png",
+      "metadata_hash": "8de3a9193d96f65fdc1dfa772f35d06fd459c1da38c40ff66395368f427a705f",
+      "metadata_link": "https://arweave.net/280usomlpj20g-D-K_M1JWWD92utjCqb9R5NZtnm14Y",
+      "onChain": true
+    },
+    "3": {
+      "name": "The Green Knight #3",
+      "image_hash": "c34299f0b6f9fdceb50b244612994858628ccc9a19a66fada1993d71cbff412f",
+      "image_link": "https://arweave.net/PAGzc_v86YQWd5Oa4ySMTvYnWVILrAOnxr_x0533XcY?ext=png",
+      "metadata_hash": "a59c1a1866072465f5e192517eb3cff43f5ee56fd137fe6226ae4f06dfe6767d",
+      "metadata_link": "https://arweave.net/2mPL4W4csoRNFxSNjnD2aT0Hg0IXBFjoTcc6fD1B0Ck",
+      "onChain": true
+    },
+    "4": {
+      "name": "The Green Knight #4",
+      "image_hash": "bc55960709f4241e51d03ad37dc436f153afa979ac5e07db6a54772c80172e98",
+      "image_link": "https://arweave.net/lqRwSnhxMEH7a_-RsEMCEzcSpxz4CzQ6PTtWA92j2rU?ext=png",
+      "metadata_hash": "75e2256e6fb07e2fae8b8214f62e28c24f26739c23ab0d9ec3403a8fbf9cb807",
+      "metadata_link": "https://arweave.net/6RQsr1qZ_UZffd1Cp0-vocD6c2I8Xoxf27kirtbFJJ8",
+      "onChain": true
+    }
+  }
+}

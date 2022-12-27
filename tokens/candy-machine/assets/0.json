@@ -1,0 +1,20 @@
+{
+  "name": "The Green Knight #0",
+  "symbol": "TGK",
+  "description": "A Green Knight's Journey",
+  "image": "0.png",
+  "attributes": [
+    {
+      "trait_type": "man",
+      "value": "green"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
